@@ -10,7 +10,7 @@ on:
   # Deploy only when changes are pushed to main
   push:
     branches:
-      - feature/PRreview
+      - main
 
   # Allow manual execution
   workflow_dispatch:
